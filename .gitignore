@@ -1,0 +1,9 @@
+.env
+.acmoj_token
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+build/
+code
+__pycache__/
